@@ -1,5 +1,5 @@
 # Textveloper para Wordpress/Woocommerce
-### Enviar SMS como notificaciones de pedidos a un administrador y clientes de su tienda WooCommerce via textveloper.com. si estas interesado en adquirir este plugin escribeme via twitter: [@pr0gramador]: http://www.twitter.com/pr0gramador “@pr0gramador” o via instagram: [@programadorve]: http://www.instagram.com/programadorve “@programadorve”
+### Enviar SMS como notificaciones de pedidos a un administrador y clientes de su tienda WooCommerce via textveloper.com. si estas interesado en adquirir este plugin escribeme via twitter: [@pr0gramador]: http://www.twitter.com/pr0gramador o via instagram: [@programadorve]: http://www.instagram.com/programadorve
 
 Breve Descripción
 =================
