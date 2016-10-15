@@ -10,7 +10,7 @@ Textveloper es un servicio de mensajeria de texto para enviar notificaciones, al
 
 ## Vista BackEnd del Plugin:
 
-![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/vista-backend-plugin-wp.jpg "Optional Title")
+![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/backend-wc-textveloper.png "Backend Plugin")
 
 ## Instalación
 
